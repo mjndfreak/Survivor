@@ -1,0 +1,11 @@
+/Users/cagdasergenc/RiderProjects/Survivor/Survivor.Business/bin/Debug/net8.0/Survivor.Business.deps.json
+/Users/cagdasergenc/RiderProjects/Survivor/Survivor.Business/bin/Debug/net8.0/Survivor.Business.dll
+/Users/cagdasergenc/RiderProjects/Survivor/Survivor.Business/bin/Debug/net8.0/Survivor.Business.pdb
+/Users/cagdasergenc/RiderProjects/Survivor/Survivor.Business/obj/Debug/net8.0/Survivor.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cagdasergenc/RiderProjects/Survivor/Survivor.Business/obj/Debug/net8.0/Survivor.Business.AssemblyInfoInputs.cache
+/Users/cagdasergenc/RiderProjects/Survivor/Survivor.Business/obj/Debug/net8.0/Survivor.Business.AssemblyInfo.cs
+/Users/cagdasergenc/RiderProjects/Survivor/Survivor.Business/obj/Debug/net8.0/Survivor.Business.csproj.CoreCompileInputs.cache
+/Users/cagdasergenc/RiderProjects/Survivor/Survivor.Business/obj/Debug/net8.0/Survivor.Business.dll
+/Users/cagdasergenc/RiderProjects/Survivor/Survivor.Business/obj/Debug/net8.0/refint/Survivor.Business.dll
+/Users/cagdasergenc/RiderProjects/Survivor/Survivor.Business/obj/Debug/net8.0/Survivor.Business.pdb
+/Users/cagdasergenc/RiderProjects/Survivor/Survivor.Business/obj/Debug/net8.0/ref/Survivor.Business.dll

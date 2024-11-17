@@ -1,0 +1,17 @@
+/Users/cagdasergenc/RiderProjects/Survivor/Survivor.Data/bin/Debug/net8.0/Survivor.Data.deps.json
+/Users/cagdasergenc/RiderProjects/Survivor/Survivor.Data/bin/Debug/net8.0/Survivor.Data.runtimeconfig.json
+/Users/cagdasergenc/RiderProjects/Survivor/Survivor.Data/bin/Debug/net8.0/Survivor.Data.dll
+/Users/cagdasergenc/RiderProjects/Survivor/Survivor.Data/bin/Debug/net8.0/Survivor.Data.pdb
+/Users/cagdasergenc/RiderProjects/Survivor/Survivor.Data/bin/Debug/net8.0/Survivor.Business.dll
+/Users/cagdasergenc/RiderProjects/Survivor/Survivor.Data/bin/Debug/net8.0/Survivor.Business.pdb
+/Users/cagdasergenc/RiderProjects/Survivor/Survivor.Data/obj/Debug/net8.0/Survivor.Data.csproj.AssemblyReference.cache
+/Users/cagdasergenc/RiderProjects/Survivor/Survivor.Data/obj/Debug/net8.0/Survivor.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cagdasergenc/RiderProjects/Survivor/Survivor.Data/obj/Debug/net8.0/Survivor.Data.AssemblyInfoInputs.cache
+/Users/cagdasergenc/RiderProjects/Survivor/Survivor.Data/obj/Debug/net8.0/Survivor.Data.AssemblyInfo.cs
+/Users/cagdasergenc/RiderProjects/Survivor/Survivor.Data/obj/Debug/net8.0/Survivor.Data.csproj.CoreCompileInputs.cache
+/Users/cagdasergenc/RiderProjects/Survivor/Survivor.Data/obj/Debug/net8.0/Survivor.063D2ABE.Up2Date
+/Users/cagdasergenc/RiderProjects/Survivor/Survivor.Data/obj/Debug/net8.0/Survivor.Data.dll
+/Users/cagdasergenc/RiderProjects/Survivor/Survivor.Data/obj/Debug/net8.0/refint/Survivor.Data.dll
+/Users/cagdasergenc/RiderProjects/Survivor/Survivor.Data/obj/Debug/net8.0/Survivor.Data.pdb
+/Users/cagdasergenc/RiderProjects/Survivor/Survivor.Data/obj/Debug/net8.0/Survivor.Data.genruntimeconfig.cache
+/Users/cagdasergenc/RiderProjects/Survivor/Survivor.Data/obj/Debug/net8.0/ref/Survivor.Data.dll

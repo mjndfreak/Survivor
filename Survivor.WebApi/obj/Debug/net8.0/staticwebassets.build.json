@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FqN2zRFtSaep86Wpz0LNAooltCIrzcPJzftMNo7hOVg=",
+  "Source": "Survivor.WebApi",
+  "BasePath": "_content/Survivor.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
